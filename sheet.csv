@@ -22,7 +22,7 @@ Arrays & Hashing,First Missing Positive,Hard,Cyclic Sort,"MAANG, SDE",https://le
 Arrays & Hashing,Ransom Note,Easy,Hash Map / Frequency Array,Top 150,https://leetcode.com/problems/ransom-note/,
 Arrays & Hashing,Isomorphic Strings,Easy,Hash Map,Top 150,https://leetcode.com/problems/isomorphic-strings/,
 Arrays & Hashing,Word Pattern,Easy,Hash Map,Top 150,https://leetcode.com/problems/word-pattern/,
-Arrays & Hashing,Happy Number,Easy,Floyd's Cycle Detection (Fast/Slow),Top 150,https://leetcode.com/problems/happy-number/,
+Arrays & Hashing,Happy Number,Easy,Floyd's Cycle Detection (Fast/Slow),Top 150,https://leetcode.com/problems/happy-number/,28/07/25
 Arrays & Hashing,Contains Duplicate II,Easy,Hash Map with Index,Top 150,https://leetcode.com/problems/contains-duplicate-ii/,
 String / Two Pointers,Valid Palindrome,Easy,Converging Pointers,"NC150, Top 150",https://leetcode.com/problems/valid-palindrome/,
 String / Two Pointers,Is Subsequence,Easy,Two Pointers,Top 150,https://leetcode.com/problems/is-subsequence/,
@@ -155,7 +155,7 @@ Greedy,Jump Game II,Medium,Greedy (level-by-level),Top 150,https://leetcode.com/
 Greedy,Gas Station,Medium,Greedy check for total gas and tank level,"NC150, Top 150",https://leetcode.com/problems/gas-station/,
 Greedy,Partition Labels,Medium,Track last occurrence of each character,NC150,https://leetcode.com/problems/partition-labels/,
 Binary Search,Binary Search,Easy,Core Algorithm,NC150,https://leetcode.com/problems/binary-search/,
-Binary Search,Search a 2D Matrix,Medium,Treat 2D as 1D; Binary Search,"NC150, Top 150",https://leetcode.com/problems/search-a-2d-matrix/,
+Binary Search,Search a 2D Matrix,Medium,Treat 2D as 1D, Binary Search,"NC150, Top 150",https://leetcode.com/problems/search-a-2d-matrix/
 Binary Search,Koko Eating Bananas,Medium,Binary Search on the Answer (Rate),NC150,https://leetcode.com/problems/koko-eating-bananas/,
 Binary Search,Find Minimum in Rotated Sorted Array,Medium,Modified Binary Search,"NC150, Top 150, SDE",https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,
 Binary Search,Search in Rotated Sorted Array,Medium,Finding Pivot / Modified Binary Search,"NC150, Top 150, SDE",https://leetcode.com/problems/search-in-rotated-sorted-array/,
