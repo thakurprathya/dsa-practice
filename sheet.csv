@@ -5,7 +5,7 @@ Arrays & Hashing,Valid Anagram,Easy,Frequency Array / Hash Map,"NC150, Top 150",
 Arrays & Hashing,Group Anagrams,Medium,Hashing by Sorted String/Tuple,"NC150, Top 150",https://leetcode.com/problems/group-anagrams/,
 Arrays & Hashing,Top K Frequent Elements,Medium,Min-Heap / Bucket Sort,"NC150, Top 150",https://leetcode.com/problems/top-k-frequent-elements/,
 Arrays & Hashing,Product of Array Except Self,Medium,Prefix & Postfix Products,"NC150, Top 150, SDE",https://leetcode.com/problems/product-of-array-except-self/,
-Arrays & Hashing,Longest Consecutive Sequence,Medium,Hash Set & Intelligent Search,"NC150, Top 150",https://leetcode.com/problems/longest-consecutive-sequence/,
+Arrays & Hashing,Longest Consecutive Sequence,Medium,Hash Set & Intelligent Search,"NC150, Top 150",https://leetcode.com/problems/longest-consecutive-sequence/,30/07/25
 Arrays & Hashing,Encode and Decode Strings,Medium,String Parsing / Delimiters,NC150,https://www.lintcode.com/problem/659/,
 Arrays & Hashing,Merge Sorted Array,Easy,Two Pointers (from end),"Top 150, SDE",https://leetcode.com/problems/merge-sorted-array/,
 Arrays & Hashing,Remove Element,Easy,Two Pointers,Top 150,https://leetcode.com/problems/remove-element/,
@@ -98,7 +98,7 @@ Trees,Count Complete Tree Nodes,Medium,Binary Search on depth,Top 150,https://le
 Trees,Populating Next Right Pointers in Each Node,Medium,BFS / Level-order connection,"SDE, Top 150",https://leetcode.com/problems/populating-next-right-pointers-in-each-node/,
 Trees,Flatten Binary Tree to Linked List,Medium,Post-order traversal (Morris),Top 150,https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,
 Tries,Implement Trie (Prefix Tree),Medium,Core Implementation with Node Class,"NC150, SDE",https://leetcode.com/problems/implement-trie-prefix-tree/,
-Tries,Design Add and Search Words Data Structure,Medium,Trie with Wildcard (.) search,NC150,https://leetcode.com/problems/design-add-and-search-words-data-structure/,
+Tries,Design Add and Search Words Data Structure,Medium,Trie with Wildcard (.) search,NC150,https://leetcode.com/problems/design-add-and-search-words-data-structure/,30/07/25
 Tries,Word Search II,Hard,Trie for prefix matching + Backtracking,"NC150, SDE",https://leetcode.com/problems/word-search-ii/,
 Heaps,Kth Largest Element in an Array,Medium,Min-Heap or Quickselect,"NC150, Top 150, SDE",https://leetcode.com/problems/kth-largest-element-in-an-array/,
 Heaps,Task Scheduler,Medium,Max-Heap for task counts,NC150,https://leetcode.com/problems/task-scheduler/,
@@ -126,9 +126,9 @@ Graphs,Word Ladder,Hard,BFS for shortest path in an implicit graph,"NC150, Top 1
 Graphs,Network Delay Time,Medium,Dijkstra's Algorithm,NC150,https://leetcode.com/problems/network-delay-time/,
 Graphs,Min Cost to Connect All Points,Medium,Kruskal's / Prim's Algorithm (MST),NC150,https://leetcode.com/problems/min-cost-to-connect-all-points/,
 Graphs,Reconstruct Itinerary,Hard,Hierholzer's Algorithm / DFS,NC150,https://leetcode.com/problems/reconstruct-itinerary/,
-Graphs,Cheapest Flights Within K Stops,Medium,Bellman-Ford or Modified Dijkstra's,NC150,https://leetcode.com/problems/cheapest-flights-within-k-stops/,
+Graphs,Cheapest Flights Within K Stops,Medium,Bellman-Ford or Modified Dijkstra's,NC150,https://leetcode.com/problems/cheapest-flights-within-k-stops/,30/07/25
 Graphs,Alien Dictionary,Hard,Topological Sort,NC150,https://www.lintcode.com/problem/892/,
-Disjoint Set Union,Number of Provinces,Medium,DSU to count components,Classic,https://leetcode.com/problems/number-of-provinces/,
+Disjoint Set Union,Number of Provinces,Medium,DSU to count components,Classic,https://leetcode.com/problems/number-of-provinces/,30/07/25
 Disjoint Set Union,Redundant Connection,Medium,DSU to find cycle-forming edge,NC150,https://leetcode.com/problems/redundant-connection/,
 Disjoint Set Union,Accounts Merge,Medium,DSU to group emails/accounts,NC150,https://leetcode.com/problems/accounts-merge/,
 Disjoint Set Union,Graph Valid Tree,Medium,DSU to check for cycles & connectivity,NC150,https://www.lintcode.com/problem/178/,
