@@ -86,7 +86,7 @@ Trees,Symmetric Tree,Easy,Recursive Mirror Check,Top 150,https://leetcode.com/pr
 Trees,Lowest Common Ancestor of a BST,Easy,Exploit BST Properties,"NC150, Top 150, SDE",https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,
 Trees,Lowest Common Ancestor of a Binary Tree,Medium,Recursive DFS,"Top 150, SDE",https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,
 Trees,Binary Tree Level Order Traversal,Medium,BFS with a Queue,"NC150, Top 150",https://leetcode.com/problems/binary-tree-level-order-traversal/,
-Trees,Binary Tree Right Side View,Medium,BFS (last node at each level),"Top 150, SDE",https://leetcode.com/problems/binary-tree-right-side-view/,
+Trees,Binary Tree Right Side View,Medium,BFS (last node at each level),"Top 150, SDE",https://leetcode.com/problems/binary-tree-right-side-view/,05/08/25
 Trees,Validate Binary Search Tree,Medium,DFS with Min/Max Range,"NC150, Top 150",https://leetcode.com/problems/validate-binary-search-tree/,
 Trees,Kth Smallest Element in a BST,Medium,In-order Traversal,"NC150, Top 150",https://leetcode.com/problems/kth-smallest-element-in-a-bst/,
 Trees,Construct Tree from Preorder and Inorder,Medium,Recursive construction using indices,"NC150, Top 150, SDE",https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,
