@@ -73,7 +73,7 @@ Linked Lists,Copy List with Random Pointer,Medium,Hash Map or Interweaving Nodes
 Linked Lists,Reverse Nodes in k-Group,Hard,Advanced Pointer Manipulation,"Top 150, SDE",https://leetcode.com/problems/reverse-nodes-in-k-group/,
 Linked Lists,Sort List,Medium,Merge Sort for Linked Lists,Top 150,https://leetcode.com/problems/sort-list/,
 Linked Lists,LRU Cache,Medium,Hash Map + Doubly Linked List,"NC150, Top 150, SDE",https://leetcode.com/problems/lru-cache/,
-Linked Lists,Palindrome Linked List,Easy,Slow/Fast Pointers + Reverse,SDE,https://leetcode.com/problems/palindrome-linked-list/,
+Linked Lists,Palindrome Linked List,Easy,Slow/Fast Pointers + Reverse,SDE,https://leetcode.com/problems/palindrome-linked-list/,05/08/25
 Linked Lists,Partition List,Medium,Two Pointers (for less/greater lists),Top 150,https://leetcode.com/problems/partition-list/,
 Linked Lists,Rotate List,Medium,"Make circular, then break",Top 150,https://leetcode.com/problems/rotate-list/,
 Trees,Invert Binary Tree,Easy,Recursive Swap,"NC150, Top 150",https://leetcode.com/problems/invert-binary-tree/,
