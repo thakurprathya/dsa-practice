@@ -36,14 +36,14 @@ String / Two Pointers,Reverse Words in a String,Medium,Two Pointers / String Man
 String / Two Pointers,Find the Index of the First Occurrence in a String,Easy,String Matching (KMP),Top 150,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,
 Sliding Window,Best Time to Buy and Sell Stock,Easy,Simple One-Pass Window (Kadane's),"NC150, Top 150, SDE",https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,
 Sliding Window,Longest Substring Without Repeating Characters,Medium,Sliding Window with Hash Set/Map,"NC150, Top 150, SDE",https://leetcode.com/problems/longest-substring-without-repeating-characters/,
-Sliding Window,Longest Repeating Character Replacement,Medium,Sliding Window with Frequency Map,NC150,https://leetcode.com/problems/longest-repeating-character-replacement/,
+Sliding Window,Longest Repeating Character Replacement,Medium,Sliding Window with Frequency Map,NC150,https://leetcode.com/problems/longest-repeating-character-replacement/,04/08/25
 Sliding Window,Permutation in String,Medium,Sliding Window with Frequency Map,NC150,https://leetcode.com/problems/permutation-in-string/,
 Sliding Window,Minimum Window Substring,Hard,Two Pointers with Character Counts,"NC150, Top 150, SDE",https://leetcode.com/problems/minimum-window-substring/,
 Sliding Window,Sliding Window Maximum,Hard,Deque for efficient max tracking,"NC150, SDE",https://leetcode.com/problems/sliding-window-maximum/,
 Sliding Window,Minimum Size Subarray Sum,Medium,Sliding Window,Top 150,https://leetcode.com/problems/minimum-size-subarray-sum/,
 Sliding Window,Substring with Concatenation of All Words,Hard,Sliding Window with Hash Map,Top 150,https://leetcode.com/problems/substring-with-concatenation-of-all-words/,
 Matrix,Valid Sudoku,Medium,Hash Sets for Rows/Cols/Boxes,"NC150, Top 150",https://leetcode.com/problems/valid-sudoku/,
-Matrix,Spiral Matrix,Medium,Layer-by-layer traversal,"NC150, Top 150",https://leetcode.com/problems/spiral-matrix/,
+Matrix,Spiral Matrix,Medium,Layer-by-layer traversal,"NC150, Top 150",https://leetcode.com/problems/spiral-matrix/,04/08/25
 Matrix,Rotate Image,Medium,Transpose and Reflect,"NC150, Top 150, SDE",https://leetcode.com/problems/rotate-image/,
 Matrix,Set Matrix Zeroes,Medium,In-place marking (first row/col),"Top 150, SDE",https://leetcode.com/problems/set-matrix-zeroes/,
 Matrix,Game of Life,Medium,In-place modification with state encoding,Top 150,https://leetcode.com/problems/game-of-life/,
