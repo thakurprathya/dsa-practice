@@ -28,10 +28,10 @@ String / Two Pointers,Valid Palindrome,Easy,Converging Pointers,"NC150, Top 150"
 String / Two Pointers,Is Subsequence,Easy,Two Pointers,Top 150,https://leetcode.com/problems/is-subsequence/,
 String / Two Pointers,Two Sum II - Input Array Is Sorted,Medium,Converging Pointers,"NC150, Top 150",https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,
 String / Two Pointers,3Sum,Medium,Sort + Two Pointers for each element,"NC150, Top 150, SDE",https://leetcode.com/problems/3sum/,
-String / Two Pointers,3Sum Closest,Medium,Sort + Two Pointers,SDE,https://leetcode.com/problems/3sum-closest/,
+String / Two Pointers,3Sum Closest,Medium,Sort + Two Pointers,SDE,https://leetcode.com/problems/3sum-closest/,06/08/25
 String / Two Pointers,4Sum,Medium,K-Sum generalization,SDE,https://leetcode.com/problems/4sum/,
 String / Two Pointers,Container With Most Water,Medium,Converging Pointers (Greedy),"NC150, Top 150",https://leetcode.com/problems/container-with-most-water/,
-String / Two Pointers,Trapping Rain Water,Hard,Two Pointers with Left/Right Max,"NC150, Top 150, SDE",https://leetcode.com/problems/trapping-rain-water/,
+String / Two Pointers,Trapping Rain Water,Hard,Two Pointers with Left/Right Max,"NC150, Top 150, SDE",https://leetcode.com/problems/trapping-rain-water/,06/08/25
 String / Two Pointers,Reverse Words in a String,Medium,Two Pointers / String Manipulation,Top 150,https://leetcode.com/problems/reverse-words-in-a-string/,29/07/25
 String / Two Pointers,Find the Index of the First Occurrence in a String,Easy,String Matching (KMP),Top 150,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,
 Sliding Window,Best Time to Buy and Sell Stock,Easy,Simple One-Pass Window (Kadane's),"NC150, Top 150, SDE",https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,
@@ -102,7 +102,7 @@ Tries,Design Add and Search Words Data Structure,Medium,Trie with Wildcard (.) s
 Tries,Word Search II,Hard,Trie for prefix matching + Backtracking,"NC150, SDE",https://leetcode.com/problems/word-search-ii/,
 Heaps,Kth Largest Element in an Array,Medium,Min-Heap or Quickselect,"NC150, Top 150, SDE",https://leetcode.com/problems/kth-largest-element-in-an-array/,
 Heaps,Task Scheduler,Medium,Max-Heap for task counts,NC150,https://leetcode.com/problems/task-scheduler/,
-Heaps,Find Median from Data Stream,Hard,Two Heaps (Min-Heap and Max-Heap),"NC150, Top 150, SDE",https://leetcode.com/problems/find-median-from-data-stream/,
+Heaps,Find Median from Data Stream,Hard,Two Heaps (Min-Heap and Max-Heap),"NC150, Top 150, SDE",https://leetcode.com/problems/find-median-from-data-stream/,06/08/25
 Heaps,Top K Frequent Words,Medium,Min-Heap + Trie/Sorting,MAANG,https://leetcode.com/problems/top-k-frequent-words/,
 Heaps,Find K Pairs with Smallest Sums,Medium,Min-Heap,Top 150,https://leetcode.com/problems/find-k-pairs-with-smallest-sums/,29/07/25
 Backtracking,Subsets,Medium,Build solutions recursively,"NC150, SDE",https://leetcode.com/problems/subsets/,
