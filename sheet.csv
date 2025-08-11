@@ -138,7 +138,7 @@ DP (1D),House Robber II,Medium,Apply House Robber on two subarrays,NC150,https:/
 DP (1D),Decode Ways,Medium,1D Dynamic Programming,"SDE, NC150",https://leetcode.com/problems/decode-ways/,
 DP (1D),Coin Change,Medium,Unbounded Knapsack DP,"NC150, Top 150, SDE",https://leetcode.com/problems/coin-change/,
 DP (1D),Coin Change II,Medium,Unbounded Knapsack DP,NC150,https://leetcode.com/problems/coin-change-ii/,
-DP (1D),Longest Increasing Subsequence,Medium,O(n^2) DP or O(n log n),"NC150, Top 150, SDE",https://leetcode.com/problems/longest-increasing-subsequence/,
+DP (1D),Longest Increasing Subsequence,Medium,O(n^2) DP or O(n log n),"NC150, Top 150, SDE",https://leetcode.com/problems/longest-increasing-subsequence/,11/08/25
 DP (1D),Word Break,Medium,1D DP,"NC150, Top 150, SDE",https://leetcode.com/problems/word-break/,
 DP (1D),Partition Equal Subset Sum,Medium,0/1 Knapsack DP,"SDE, NC150",https://leetcode.com/problems/partition-equal-subset-sum/,
 DP (Multi-dim),Unique Paths,Medium,Basic 2D DP,"NC150, SDE",https://leetcode.com/problems/unique-paths/,
