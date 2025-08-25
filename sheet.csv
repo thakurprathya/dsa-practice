@@ -156,7 +156,7 @@ Greedy,Gas Station,Medium,Greedy check for total gas and tank level,"NC150, Top 
 Greedy,Partition Labels,Medium,Track last occurrence of each character,NC150,https://leetcode.com/problems/partition-labels/,
 Binary Search,Binary Search,Easy,Core Algorithm,NC150,https://leetcode.com/problems/binary-search/,
 Binary Search,Search a 2D Matrix,Medium,Treat 2D as 1D Binary Search,"NC150, Top 150",https://leetcode.com/problems/search-a-2d-matrix/,
-Binary Search,Koko Eating Bananas,Medium,Binary Search on the Answer (Rate),NC150,https://leetcode.com/problems/koko-eating-bananas/,
+Binary Search,Koko Eating Bananas,Medium,Binary Search on the Answer (Rate),NC150,https://leetcode.com/problems/koko-eating-bananas/,19/08/25
 Binary Search,Find Minimum in Rotated Sorted Array,Medium,Modified Binary Search,"NC150, Top 150, SDE",https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,
 Binary Search,Search in Rotated Sorted Array,Medium,Finding Pivot / Modified Binary Search,"NC150, Top 150, SDE",https://leetcode.com/problems/search-in-rotated-sorted-array/,
 Binary Search,Time Based Key-Value Store,Medium,Binary Search on Timestamps,NC150,https://leetcode.com/problems/time-based-key-value-store/,03/08/25
