@@ -2,7 +2,7 @@ Topic,Problem Name,Difficulty,Key Pattern / Concept,Common In,Link,Solved
 Arrays & Hashing,Two Sum,Easy,Hash Map for O(1) Lookups,"NC150, Top 150, SDE",https://leetcode.com/problems/two-sum/,
 Arrays & Hashing,Contains Duplicate,Easy,Hash Set for O(1) Lookups,"NC150, Top 150",https://leetcode.com/problems/contains-duplicate/,
 Arrays & Hashing,Valid Anagram,Easy,Frequency Array / Hash Map,"NC150, Top 150",https://leetcode.com/problems/valid-anagram/,
-Arrays & Hashing,Group Anagrams,Medium,Hashing by Sorted String/Tuple,"NC150, Top 150",https://leetcode.com/problems/group-anagrams/,
+Arrays & Hashing,Group Anagrams,Medium,Hashing by Sorted String/Tuple,"NC150, Top 150",https://leetcode.com/problems/group-anagrams/,25/08/25
 Arrays & Hashing,Top K Frequent Elements,Medium,Min-Heap / Bucket Sort,"NC150, Top 150",https://leetcode.com/problems/top-k-frequent-elements/,
 Arrays & Hashing,Product of Array Except Self,Medium,Prefix & Postfix Products,"NC150, Top 150, SDE",https://leetcode.com/problems/product-of-array-except-self/,
 Arrays & Hashing,Longest Consecutive Sequence,Medium,Hash Set & Intelligent Search,"NC150, Top 150",https://leetcode.com/problems/longest-consecutive-sequence/,30/07/25
@@ -11,12 +11,12 @@ Arrays & Hashing,Merge Sorted Array,Easy,Two Pointers (from end),"Top 150, SDE",
 Arrays & Hashing,Remove Element,Easy,Two Pointers,Top 150,https://leetcode.com/problems/remove-element/,
 Arrays & Hashing,Remove Duplicates from Sorted Array,Easy,Two Pointers,"Top 150, SDE",https://leetcode.com/problems/remove-duplicates-from-sorted-array/,
 Arrays & Hashing,Remove Duplicates from Sorted Array II,Medium,Two Pointers,Top 150,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,
-Arrays & Hashing,Majority Element,Easy,Boyer-Moore Voting Algorithm,"Top 150, SDE",https://leetcode.com/problems/majority-element/,
+Arrays & Hashing,Majority Element,Easy,Boyer-Moore Voting Algorithm,"Top 150, SDE",https://leetcode.com/problems/majority-element/,25/08/25
 Arrays & Hashing,Rotate Array,Medium,Reversal Algorithm / Cyclic Replacements,"Top 150, SDE",https://leetcode.com/problems/rotate-array/,
 Arrays & Hashing,Best Time to Buy and Sell Stock II,Medium,Greedy (Peak/Valley),Top 150,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,
 Arrays & Hashing,H-Index,Medium,Sorting / Counting Sort,Top 150,https://leetcode.com/problems/h-index/,
 Arrays & Hashing,Insert Delete GetRandom O(1),Medium,Hash Map + Array,"Top 150, SDE",https://leetcode.com/problems/insert-delete-getrandom-o1/,
-Arrays & Hashing,Candy,Hard,Greedy (Two Pass),Top 150,https://leetcode.com/problems/candy/,
+Arrays & Hashing,Candy,Hard,Greedy (Two Pass),Top 150,https://leetcode.com/problems/candy/,25/08/25
 Arrays & Hashing,Find the Duplicate Number,Medium,Floyd's Cycle Detection / Binary Search,"SDE, NC150",https://leetcode.com/problems/find-the-duplicate-number/,
 Arrays & Hashing,First Missing Positive,Hard,Cyclic Sort,"MAANG, SDE",https://leetcode.com/problems/first-missing-positive/,
 Arrays & Hashing,Ransom Note,Easy,Hash Map / Frequency Array,Top 150,https://leetcode.com/problems/ransom-note/,
