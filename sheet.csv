@@ -1,4 +1,4 @@
-Topic,Problem Name,Difficulty,Key Pattern / Concept,Common In,Link,Solved
+valid,Problem Name,Difficulty,Key Pattern / Concept,Common In,Link,Solved
 Arrays & Hashing,Two Sum,Easy,Hash Map for O(1) Lookups,"NC150, Top 150, SDE",https://leetcode.com/problems/two-sum/,
 Arrays & Hashing,Contains Duplicate,Easy,Hash Set for O(1) Lookups,"NC150, Top 150",https://leetcode.com/problems/contains-duplicate/,
 Arrays & Hashing,Valid Anagram,Easy,Frequency Array / Hash Map,"NC150, Top 150",https://leetcode.com/problems/valid-anagram/,
@@ -24,13 +24,13 @@ Arrays & Hashing,Isomorphic Strings,Easy,Hash Map,Top 150,https://leetcode.com/p
 Arrays & Hashing,Word Pattern,Easy,Hash Map,Top 150,https://leetcode.com/problems/word-pattern/,
 Arrays & Hashing,Happy Number,Easy,Floyd's Cycle Detection (Fast/Slow),Top 150,https://leetcode.com/problems/happy-number/,28/07/25
 Arrays & Hashing,Contains Duplicate II,Easy,Hash Map with Index,Top 150,https://leetcode.com/problems/contains-duplicate-ii/,
-String / Two Pointers,Valid Palindrome,Easy,Converging Pointers,"NC150, Top 150",https://leetcode.com/problems/valid-palindrome/,
+String / Two Pointers,Valid Palindrome,Easy,Converging Pointers,"NC150, Top 150",https://leetcode.com/problems/valid-palindrome/,15/09/25
 String / Two Pointers,Is Subsequence,Easy,Two Pointers,Top 150,https://leetcode.com/problems/is-subsequence/,
 String / Two Pointers,Two Sum II - Input Array Is Sorted,Medium,Converging Pointers,"NC150, Top 150",https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,
 String / Two Pointers,3Sum,Medium,Sort + Two Pointers for each element,"NC150, Top 150, SDE",https://leetcode.com/problems/3sum/,
 String / Two Pointers,3Sum Closest,Medium,Sort + Two Pointers,SDE,https://leetcode.com/problems/3sum-closest/,06/08/25
 String / Two Pointers,4Sum,Medium,K-Sum generalization,SDE,https://leetcode.com/problems/4sum/,
-String / Two Pointers,Container With Most Water,Medium,Converging Pointers (Greedy),"NC150, Top 150",https://leetcode.com/problems/container-with-most-water/,
+String / Two Pointers,Container With Most Water,Medium,Converging Pointers (Greedy),"NC150, Top 150",https://leetcode.com/problems/container-with-most-water/,15/09/25
 String / Two Pointers,Trapping Rain Water,Hard,Two Pointers with Left/Right Max,"NC150, Top 150, SDE",https://leetcode.com/problems/trapping-rain-water/,06/08/25
 String / Two Pointers,Reverse Words in a String,Medium,Two Pointers / String Manipulation,Top 150,https://leetcode.com/problems/reverse-words-in-a-string/,29/07/25
 String / Two Pointers,Find the Index of the First Occurrence in a String,Easy,String Matching (KMP),Top 150,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,
