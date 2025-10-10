@@ -67,7 +67,7 @@ Linked Lists,Reverse Linked List,Easy,Pointer Manipulation,"NC150, Top 150, SDE"
 Linked Lists,Merge Two Sorted Lists,Easy,Standard Two-Pointer Merge,"NC150, Top 150, SDE",https://leetcode.com/problems/merge-two-sorted-lists/,
 Linked Lists,Reorder List,Medium,Slow/Fast Pointers + Reverse + Merge,NC150,https://leetcode.com/problems/reorder-list/,
 Linked Lists,Remove Nth Node From End of List,Medium,Slow/Fast Pointers,"NC150, Top 150, SDE",https://leetcode.com/problems/remove-nth-node-from-end-of-list/,
-Linked Lists,Linked List Cycle,Easy,Floyd's Tortoise and Hare,"NC150, Top 150, SDE",https://leetcode.com/problems/linked-list-cycle/,
+Linked Lists,Linked List Cycle,Easy,Floyd's Tortoise and Hare,"NC150, Top 150, SDE",https://leetcode.com/problems/linked-list-cycle/,08/10/25
 Linked Lists,Add Two Numbers,Medium,Elementary Math with Pointers,"NC150, Top 150, SDE",https://leetcode.com/problems/add-two-numbers/,
 Linked Lists,Copy List with Random Pointer,Medium,Hash Map or Interweaving Nodes,"NC150, Top 150, SDE",https://leetcode.com/problems/copy-list-with-random-pointer/,
 Linked Lists,Reverse Nodes in k-Group,Hard,Advanced Pointer Manipulation,"Top 150, SDE",https://leetcode.com/problems/reverse-nodes-in-k-group/,
@@ -115,11 +115,11 @@ Backtracking,Generate Parentheses,Medium,Backtracking / Recursion,"NC150, Top 15
 Backtracking,Palindrome Partitioning,Medium,Backtracking + Palindrome Check,"NC150, SDE",https://leetcode.com/problems/palindrome-partitioning/,
 Backtracking,Word Search,Medium,DFS on a Grid,"NC150, Top 150, SDE",https://leetcode.com/problems/word-search/,
 Backtracking,N-Queens,Hard,Backtracking with constraint checking,SDE,https://leetcode.com/problems/n-queens/,
-Backtracking,Sudoku Solver,Hard,Backtracking,SDE,https://leetcode.com/problems/sudoku-solver/,
+Backtracking,Sudoku Solver,Hard,Backtracking,SDE,https://leetcode.com/problems/sudoku-solver/,08/10/25
 Graphs,Number of Islands,Medium,"DFS or BFS to ""sink"" islands","NC150, Top 150, SDE",https://leetcode.com/problems/number-of-islands/,
 Graphs,Number of Unique Islands,Medium,"DFS or BFS to ""sink"" islands",,https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1,
 Graphs,Clone Graph,Medium,DFS/BFS with a hash map for visited nodes,"NC150, Top 150, SDE",https://leetcode.com/problems/clone-graph/,
-Graphs,Rotting Oranges,Medium,Breadth-First Search (BFS),MAANG,https://leetcode.com/problems/rotting-oranges/,
+Graphs,Rotting Oranges,Medium,Breadth-First Search (BFS),MAANG,https://leetcode.com/problems/rotting-oranges/,08/10/25
 Graphs,Pacific Atlantic Water Flow,Medium,Multi-source BFS/DFS from oceans,NC150,https://leetcode.com/problems/pacific-atlantic-water-flow/,
 Graphs,Course Schedule,Medium,Topological Sort (via DFS or Kahn's),"NC150, Top 150",https://leetcode.com/problems/course-schedule/,
 Graphs,Word Ladder,Hard,BFS for shortest path in an implicit graph,"NC150, Top 150",https://leetcode.com/problems/word-ladder/,
