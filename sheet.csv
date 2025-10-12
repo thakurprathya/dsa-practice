@@ -84,7 +84,7 @@ Trees,Same Tree,Easy,Simultaneous Traversal,Top 150,https://leetcode.com/problem
 Trees,Subtree of Another Tree,Easy,Recursive Comparison,NC150,https://leetcode.com/problems/subtree-of-another-tree/,
 Trees,Symmetric Tree,Easy,Recursive Mirror Check,Top 150,https://leetcode.com/problems/symmetric-tree/,
 Trees,Lowest Common Ancestor of a BST,Easy,Exploit BST Properties,"NC150, Top 150, SDE",https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,
-Trees,Lowest Common Ancestor of a Binary Tree,Medium,Recursive DFS,"Top 150, SDE",https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,
+Trees,Lowest Common Ancestor of a Binary Tree,Medium,Recursive DFS,"Top 150, SDE",https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,10/10/2025
 Trees,Binary Tree Level Order Traversal,Medium,BFS with a Queue,"NC150, Top 150",https://leetcode.com/problems/binary-tree-level-order-traversal/,
 Trees,Binary Tree Right Side View,Medium,BFS (last node at each level),"Top 150, SDE",https://leetcode.com/problems/binary-tree-right-side-view/,05/08/25
 Trees,Validate Binary Search Tree,Medium,DFS with Min/Max Range,"NC150, Top 150",https://leetcode.com/problems/validate-binary-search-tree/,
@@ -164,7 +164,7 @@ Binary Search,Median of Two Sorted Arrays,Hard,Binary Search on Partitions,"NC15
 Bit Manipulation,Add Binary,Easy,Bit-by-bit simulation,Top 150,https://leetcode.com/problems/add-binary/,
 Bit Manipulation,Reverse Bits,Easy,Shifting bits from one number to another,"NC150, Top 150",https://leetcode.com/problems/reverse-bits/,
 Bit Manipulation,Number of 1 Bits,Easy,Bitwise AND and shift,"NC150, Top 150",https://leetcode.com/problems/number-of-1-bits/,
-Bit Manipulation,Counting Bits,Easy,DP with bit manipulation,NC150,https://leetcode.com/problems/counting-bits/,
+Bit Manipulation,Counting Bits,Easy,DP with bit manipulation,NC150,https://leetcode.com/problems/counting-bits/,10/10/2025
 Bit Manipulation,Single Number,Easy,XOR,"Top 150, SDE",https://leetcode.com/problems/single-number/,
 Bit Manipulation,Single Number II,Medium,Bitwise counting with modulo,Top 150,https://leetcode.com/problems/single-number-ii/,
 Bit Manipulation,Sum of Two Integers,Medium,Simulating addition with XOR and AND,NC150,https://leetcode.com/problems/sum-of-two-integers/,
