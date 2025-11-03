@@ -82,7 +82,7 @@ Trees,Diameter of Binary Tree,Easy,Modified DFS (return max depth),"NC150, SDE",
 Trees,Balanced Binary Tree,Easy,DFS with height checking,NC150,https://leetcode.com/problems/balanced-binary-tree/,
 Trees,Same Tree,Easy,Simultaneous Traversal,Top 150,https://leetcode.com/problems/same-tree/,
 Trees,Subtree of Another Tree,Easy,Recursive Comparison,NC150,https://leetcode.com/problems/subtree-of-another-tree/,
-Trees,Symmetric Tree,Easy,Recursive Mirror Check,Top 150,https://leetcode.com/problems/symmetric-tree/,
+Trees,Symmetric Tree,Easy,Recursive Mirror Check,Top 150,https://leetcode.com/problems/symmetric-tree/,27/10/25
 Trees,Lowest Common Ancestor of a BST,Easy,Exploit BST Properties,"NC150, Top 150, SDE",https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,
 Trees,Lowest Common Ancestor of a Binary Tree,Medium,Recursive DFS,"Top 150, SDE",https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,10/10/2025
 Trees,Binary Tree Level Order Traversal,Medium,BFS with a Queue,"NC150, Top 150",https://leetcode.com/problems/binary-tree-level-order-traversal/,
@@ -151,7 +151,7 @@ DP (Multi-dim),Burst Balloons,Hard,DP with Intervals,"NC150, SDE",https://leetco
 DP (Multi-dim),Regular Expression Matching,Hard,2D DP,"SDE, NC150",https://leetcode.com/problems/regular-expression-matching/,
 Greedy,Maximum Subarray,Medium,Kadane's Algorithm,"NC150, Top 150, SDE",https://leetcode.com/problems/maximum-subarray/,
 Greedy,Jump Game,Medium,Track max reachable index,"NC150, Top 150, SDE",https://leetcode.com/problems/jump-game/,
-Greedy,Jump Game II,Medium,Greedy (level-by-level),Top 150,https://leetcode.com/problems/jump-game-ii/,
+Greedy,Jump Game II,Medium,Greedy (level-by-level),Top 150,https://leetcode.com/problems/jump-game-ii/,27/10/25
 Greedy,Gas Station,Medium,Greedy check for total gas and tank level,"NC150, Top 150",https://leetcode.com/problems/gas-station/,
 Greedy,Partition Labels,Medium,Track last occurrence of each character,NC150,https://leetcode.com/problems/partition-labels/,
 Binary Search,Binary Search,Easy,Core Algorithm,NC150,https://leetcode.com/problems/binary-search/,
