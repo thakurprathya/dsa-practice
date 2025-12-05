@@ -50,7 +50,7 @@ Matrix,Game of Life,Medium,In-place modification with state encoding,Top 150,htt
 Matrix,Maximal Square,Medium,2D Dynamic Programming,Classic,https://leetcode.com/problems/maximal-square/,
 Stack,Valid Parentheses,Easy,Matching Pairs,"NC150, Top 150",https://leetcode.com/problems/valid-parentheses/,
 Stack,Simplify Path,Medium,Stack for Path Manipulation,Top 150,https://leetcode.com/problems/simplify-path/,
-Stack,Min Stack,Medium,Two Stacks or Stack of Pairs,"NC150, Top 150",https://leetcode.com/problems/min-stack/,
+Stack,Min Stack,Medium,Two Stacks or Stack of Pairs,"NC150, Top 150",https://leetcode.com/problems/min-stack/,04/12/25
 Stack,Evaluate Reverse Polish Notation,Medium,Expression Evaluation,"NC150, Top 150",https://leetcode.com/problems/evaluate-reverse-polish-notation/,
 Stack,Basic Calculator,Hard,Stack with Sign Tracking,Top 150,https://leetcode.com/problems/basic-calculator/,
 Stack,Basic Calculator II,Medium,"Stack, managing operators",Classic,https://leetcode.com/problems/basic-calculator-ii/,
@@ -63,7 +63,7 @@ Intervals,Non-overlapping Intervals,Medium,Greedy approach on sorted intervals,"
 Intervals,Minimum Number of Arrows to Burst Balloons,Medium,Greedy (Sort by end point),Top 150,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,
 Intervals,Meeting Rooms II,Medium,Min-Heap or Chronological Ordering,SDE,https://www.lintcode.com/problem/919/,
 Intervals,Summary Ranges,Easy,Iteration and Range Building,Top 150,https://leetcode.com/problems/summary-ranges/,
-Linked Lists,Reverse Linked List,Easy,Pointer Manipulation,"NC150, Top 150, SDE",https://leetcode.com/problems/reverse-linked-list/,
+Linked Lists,Reverse Linked List,Easy,Pointer Manipulation,"NC150, Top 150, SDE",https://leetcode.com/problems/reverse-linked-list/,04/12/25
 Linked Lists,Merge Two Sorted Lists,Easy,Standard Two-Pointer Merge,"NC150, Top 150, SDE",https://leetcode.com/problems/merge-two-sorted-lists/,
 Linked Lists,Reorder List,Medium,Slow/Fast Pointers + Reverse + Merge,NC150,https://leetcode.com/problems/reorder-list/,
 Linked Lists,Remove Nth Node From End of List,Medium,Slow/Fast Pointers,"NC150, Top 150, SDE",https://leetcode.com/problems/remove-nth-node-from-end-of-list/,
