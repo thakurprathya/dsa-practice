@@ -133,8 +133,8 @@ Disjoint Set Union,Redundant Connection,Medium,DSU to find cycle-forming edge,NC
 Disjoint Set Union,Accounts Merge,Medium,DSU to group emails/accounts,NC150,https://leetcode.com/problems/accounts-merge/,
 Disjoint Set Union,Graph Valid Tree,Medium,DSU to check for cycles & connectivity,NC150,https://www.lintcode.com/problem/178/,
 DP (1D),Climbing Stairs,Easy,Fibonacci-style DP,"NC150, Top 150",https://leetcode.com/problems/climbing-stairs/,
-DP (1D),House Robber,Medium,Rob/Don't Rob decision at each step,"NC150, Top 150, SDE",https://leetcode.com/problems/house-robber/,
-DP (1D),House Robber II,Medium,Apply House Robber on two subarrays,NC150,https://leetcode.com/problems/house-robber-ii/,
+DP (1D),House Robber,Medium,Rob/Don't Rob decision at each step,"NC150, Top 150, SDE",https://leetcode.com/problems/house-robber/,06/12/25
+DP (1D),House Robber II,Medium,Apply House Robber on two subarrays,NC150,https://leetcode.com/problems/house-robber-ii/,06/12/25
 DP (1D),Decode Ways,Medium,1D Dynamic Programming,"SDE, NC150",https://leetcode.com/problems/decode-ways/,
 DP (1D),Coin Change,Medium,Unbounded Knapsack DP,"NC150, Top 150, SDE",https://leetcode.com/problems/coin-change/,
 DP (1D),Coin Change II,Medium,Unbounded Knapsack DP,NC150,https://leetcode.com/problems/coin-change-ii/,
@@ -145,7 +145,7 @@ DP (Multi-dim),Unique Paths,Medium,Basic 2D DP,"NC150, SDE",https://leetcode.com
 DP (Multi-dim),Minimum Path Sum,Medium,2D DP,"Top 150, SDE",https://leetcode.com/problems/minimum-path-sum/,
 DP (Multi-dim),Longest Palindromic Substring,Medium,DP / Expand from Center,"NC150, SDE",https://leetcode.com/problems/longest-palindromic-substring/,
 DP (Multi-dim),Longest Common Subsequence,Medium,2D DP with string indices,NC150,https://leetcode.com/problems/longest-common-subsequence/,
-DP (Multi-dim),Interleaving String,Medium,2D DP,NC150,https://leetcode.com/problems/interleaving-string/,
+DP (Multi-dim),Interleaving String,Medium,2D DP,NC150,https://leetcode.com/problems/interleaving-string/,06/12/25
 DP (Multi-dim),Edit Distance,Hard,2D DP,"NC150, SDE",https://leetcode.com/problems/edit-distance/,
 DP (Multi-dim),Burst Balloons,Hard,DP with Intervals,"NC150, SDE",https://leetcode.com/problems/burst-balloons/,
 DP (Multi-dim),Regular Expression Matching,Hard,2D DP,"SDE, NC150",https://leetcode.com/problems/regular-expression-matching/,
