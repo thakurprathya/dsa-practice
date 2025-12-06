@@ -45,7 +45,7 @@ Sliding Window,Substring with Concatenation of All Words,Hard,Sliding Window wit
 Matrix,Valid Sudoku,Medium,Hash Sets for Rows/Cols/Boxes,"NC150, Top 150",https://leetcode.com/problems/valid-sudoku/,
 Matrix,Spiral Matrix,Medium,Layer-by-layer traversal,"NC150, Top 150",https://leetcode.com/problems/spiral-matrix/,04/08/25
 Matrix,Rotate Image,Medium,Transpose and Reflect,"NC150, Top 150, SDE",https://leetcode.com/problems/rotate-image/,
-Matrix,Set Matrix Zeroes,Medium,In-place marking (first row/col),"Top 150, SDE",https://leetcode.com/problems/set-matrix-zeroes/,
+Matrix,Set Matrix Zeroes,Medium,In-place marking (first row/col),"Top 150, SDE",https://leetcode.com/problems/set-matrix-zeroes/,07/12/25
 Matrix,Game of Life,Medium,In-place modification with state encoding,Top 150,https://leetcode.com/problems/game-of-life/,
 Matrix,Maximal Square,Medium,2D Dynamic Programming,Classic,https://leetcode.com/problems/maximal-square/,
 Stack,Valid Parentheses,Easy,Matching Pairs,"NC150, Top 150",https://leetcode.com/problems/valid-parentheses/,
@@ -69,7 +69,7 @@ Linked Lists,Reorder List,Medium,Slow/Fast Pointers + Reverse + Merge,NC150,http
 Linked Lists,Remove Nth Node From End of List,Medium,Slow/Fast Pointers,"NC150, Top 150, SDE",https://leetcode.com/problems/remove-nth-node-from-end-of-list/,
 Linked Lists,Linked List Cycle,Easy,Floyd's Tortoise and Hare,"NC150, Top 150, SDE",https://leetcode.com/problems/linked-list-cycle/,08/10/25
 Linked Lists,Add Two Numbers,Medium,Elementary Math with Pointers,"NC150, Top 150, SDE",https://leetcode.com/problems/add-two-numbers/,
-Linked Lists,Copy List with Random Pointer,Medium,Hash Map or Interweaving Nodes,"NC150, Top 150, SDE",https://leetcode.com/problems/copy-list-with-random-pointer/,
+Linked Lists,Copy List with Random Pointer,Medium,Hash Map or Interweaving Nodes,"NC150, Top 150, SDE",https://leetcode.com/problems/copy-list-with-random-pointer/,07/12/25
 Linked Lists,Reverse Nodes in k-Group,Hard,Advanced Pointer Manipulation,"Top 150, SDE",https://leetcode.com/problems/reverse-nodes-in-k-group/,
 Linked Lists,Sort List,Medium,Merge Sort for Linked Lists,Top 150,https://leetcode.com/problems/sort-list/,
 Linked Lists,LRU Cache,Medium,Hash Map + Doubly Linked List,"NC150, Top 150, SDE",https://leetcode.com/problems/lru-cache/,
@@ -101,7 +101,7 @@ Tries,Implement Trie (Prefix Tree),Medium,Core Implementation with Node Class,"N
 Tries,Design Add and Search Words Data Structure,Medium,Trie with Wildcard (.) search,NC150,https://leetcode.com/problems/design-add-and-search-words-data-structure/,30/07/25
 Tries,Word Search II,Hard,Trie for prefix matching + Backtracking,"NC150, SDE",https://leetcode.com/problems/word-search-ii/,
 Heaps,Kth Largest Element in an Array,Medium,Min-Heap or Quickselect,"NC150, Top 150, SDE",https://leetcode.com/problems/kth-largest-element-in-an-array/,
-Heaps,Task Scheduler,Medium,Max-Heap for task counts,NC150,https://leetcode.com/problems/task-scheduler/,
+Heaps,Task Scheduler,Medium,Max-Heap for task counts,NC150,https://leetcode.com/problems/task-scheduler/,07/12/25
 Heaps,Find Median from Data Stream,Hard,Two Heaps (Min-Heap and Max-Heap),"NC150, Top 150, SDE",https://leetcode.com/problems/find-median-from-data-stream/,06/08/25
 Heaps,Top K Frequent Words,Medium,Min-Heap + Trie/Sorting,MAANG,https://leetcode.com/problems/top-k-frequent-words/,
 Heaps,Find K Pairs with Smallest Sums,Medium,Min-Heap,Top 150,https://leetcode.com/problems/find-k-pairs-with-smallest-sums/,29/07/25
