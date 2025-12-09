@@ -17,7 +17,7 @@ Arrays & Hashing,Best Time to Buy and Sell Stock II,Medium,Greedy (Peak/Valley),
 Arrays & Hashing,H-Index,Medium,Sorting / Counting Sort,Top 150,https://leetcode.com/problems/h-index/,
 Arrays & Hashing,Insert Delete GetRandom O(1),Medium,Hash Map + Array,"Top 150, SDE",https://leetcode.com/problems/insert-delete-getrandom-o1/,
 Arrays & Hashing,Candy,Hard,Greedy (Two Pass),Top 150,https://leetcode.com/problems/candy/,25/08/25
-Arrays & Hashing,Find the Duplicate Number,Medium,Floyd's Cycle Detection / Binary Search,"SDE, NC150",https://leetcode.com/problems/find-the-duplicate-number/,
+Arrays & Hashing,Find the Duplicate Number,Medium,Floyd's Cycle Detection / Binary Search,"SDE, NC150",https://leetcode.com/problems/find-the-duplicate-number/,09/12/25
 Arrays & Hashing,First Missing Positive,Hard,Cyclic Sort,"MAANG, SDE",https://leetcode.com/problems/first-missing-positive/,
 Arrays & Hashing,Ransom Note,Easy,Hash Map / Frequency Array,Top 150,https://leetcode.com/problems/ransom-note/,
 Arrays & Hashing,Isomorphic Strings,Easy,Hash Map,Top 150,https://leetcode.com/problems/isomorphic-strings/,
@@ -46,7 +46,7 @@ Matrix,Valid Sudoku,Medium,Hash Sets for Rows/Cols/Boxes,"NC150, Top 150",https:
 Matrix,Spiral Matrix,Medium,Layer-by-layer traversal,"NC150, Top 150",https://leetcode.com/problems/spiral-matrix/,04/08/25
 Matrix,Rotate Image,Medium,Transpose and Reflect,"NC150, Top 150, SDE",https://leetcode.com/problems/rotate-image/,
 Matrix,Set Matrix Zeroes,Medium,In-place marking (first row/col),"Top 150, SDE",https://leetcode.com/problems/set-matrix-zeroes/,07/12/25
-Matrix,Game of Life,Medium,In-place modification with state encoding,Top 150,https://leetcode.com/problems/game-of-life/,
+Matrix,Game of Life,Medium,In-place modification with state encoding,Top 150,https://leetcode.com/problems/game-of-life/,09/12/25
 Matrix,Maximal Square,Medium,2D Dynamic Programming,Classic,https://leetcode.com/problems/maximal-square/,
 Stack,Valid Parentheses,Easy,Matching Pairs,"NC150, Top 150",https://leetcode.com/problems/valid-parentheses/,
 Stack,Simplify Path,Medium,Stack for Path Manipulation,Top 150,https://leetcode.com/problems/simplify-path/,
