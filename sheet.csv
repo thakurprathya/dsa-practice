@@ -41,7 +41,7 @@ Sliding Window,Permutation in String,Medium,Sliding Window with Frequency Map,NC
 Sliding Window,Minimum Window Substring,Hard,Two Pointers with Character Counts,"NC150, Top 150, SDE",https://leetcode.com/problems/minimum-window-substring/,05/08/25
 Sliding Window,Sliding Window Maximum,Hard,Deque for efficient max tracking,"NC150, SDE",https://leetcode.com/problems/sliding-window-maximum/,
 Sliding Window,Minimum Size Subarray Sum,Medium,Sliding Window,Top 150,https://leetcode.com/problems/minimum-size-subarray-sum/,
-Sliding Window,Substring with Concatenation of All Words,Hard,Sliding Window with Hash Map,Top 150,https://leetcode.com/problems/substring-with-concatenation-of-all-words/,
+Sliding Window,Substring with Concatenation of All Words,Hard,Sliding Window with Hash Map,Top 150,https://leetcode.com/problems/substring-with-concatenation-of-all-words/,14/12/25
 Matrix,Valid Sudoku,Medium,Hash Sets for Rows/Cols/Boxes,"NC150, Top 150",https://leetcode.com/problems/valid-sudoku/,
 Matrix,Spiral Matrix,Medium,Layer-by-layer traversal,"NC150, Top 150",https://leetcode.com/problems/spiral-matrix/,04/08/25
 Matrix,Rotate Image,Medium,Transpose and Reflect,"NC150, Top 150, SDE",https://leetcode.com/problems/rotate-image/,
