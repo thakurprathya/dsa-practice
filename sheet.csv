@@ -9,8 +9,8 @@ Arrays & Hashing,Longest Consecutive Sequence,Medium,Hash Set & Intelligent Sear
 Arrays & Hashing,Encode and Decode Strings,Medium,String Parsing / Delimiters,NC150,https://www.lintcode.com/problem/659/,03/08/25
 Arrays & Hashing,Merge Sorted Array,Easy,Two Pointers (from end),"Top 150, SDE",https://leetcode.com/problems/merge-sorted-array/,
 Arrays & Hashing,Remove Element,Easy,Two Pointers,Top 150,https://leetcode.com/problems/remove-element/,
-Arrays & Hashing,Remove Duplicates from Sorted Array,Easy,Two Pointers,"Top 150, SDE",https://leetcode.com/problems/remove-duplicates-from-sorted-array/,
-Arrays & Hashing,Remove Duplicates from Sorted Array II,Medium,Two Pointers,Top 150,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,
+Arrays & Hashing,Remove Duplicates from Sorted Array,Easy,Two Pointers,"Top 150, SDE",https://leetcode.com/problems/remove-duplicates-from-sorted-array/,24/12/25
+Arrays & Hashing,Remove Duplicates from Sorted Array II,Medium,Two Pointers,Top 150,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,24/12/25
 Arrays & Hashing,Majority Element,Easy,Boyer-Moore Voting Algorithm,"Top 150, SDE",https://leetcode.com/problems/majority-element/,25/08/25
 Arrays & Hashing,Rotate Array,Medium,Reversal Algorithm / Cyclic Replacements,"Top 150, SDE",https://leetcode.com/problems/rotate-array/,
 Arrays & Hashing,Best Time to Buy and Sell Stock II,Medium,Greedy (Peak/Valley),Top 150,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,
@@ -68,7 +68,7 @@ Linked Lists,Merge Two Sorted Lists,Easy,Standard Two-Pointer Merge,"NC150, Top 
 Linked Lists,Reorder List,Medium,Slow/Fast Pointers + Reverse + Merge,NC150,https://leetcode.com/problems/reorder-list/,
 Linked Lists,Remove Nth Node From End of List,Medium,Slow/Fast Pointers,"NC150, Top 150, SDE",https://leetcode.com/problems/remove-nth-node-from-end-of-list/,
 Linked Lists,Linked List Cycle,Easy,Floyd's Tortoise and Hare,"NC150, Top 150, SDE",https://leetcode.com/problems/linked-list-cycle/,08/10/25
-Linked Lists,Add Two Numbers,Medium,Elementary Math with Pointers,"NC150, Top 150, SDE",https://leetcode.com/problems/add-two-numbers/,
+Linked Lists,Add Two Numbers,Medium,Elementary Math with Pointers,"NC150, Top 150, SDE",https://leetcode.com/problems/add-two-numbers/,24/12/25
 Linked Lists,Copy List with Random Pointer,Medium,Hash Map or Interweaving Nodes,"NC150, Top 150, SDE",https://leetcode.com/problems/copy-list-with-random-pointer/,07/12/25
 Linked Lists,Reverse Nodes in k-Group,Hard,Advanced Pointer Manipulation,"Top 150, SDE",https://leetcode.com/problems/reverse-nodes-in-k-group/,
 Linked Lists,Sort List,Medium,Merge Sort for Linked Lists,Top 150,https://leetcode.com/problems/sort-list/,
@@ -150,7 +150,7 @@ DP (Multi-dim),Edit Distance,Hard,2D DP,"NC150, SDE",https://leetcode.com/proble
 DP (Multi-dim),Burst Balloons,Hard,DP with Intervals,"NC150, SDE",https://leetcode.com/problems/burst-balloons/,
 DP (Multi-dim),Regular Expression Matching,Hard,2D DP,"SDE, NC150",https://leetcode.com/problems/regular-expression-matching/,
 Greedy,Maximum Subarray,Medium,Kadane's Algorithm,"NC150, Top 150, SDE",https://leetcode.com/problems/maximum-subarray/,
-Greedy,Jump Game,Medium,Track max reachable index,"NC150, Top 150, SDE",https://leetcode.com/problems/jump-game/,
+Greedy,Jump Game,Medium,Track max reachable index,"NC150, Top 150, SDE",https://leetcode.com/problems/jump-game/,24/12/25
 Greedy,Jump Game II,Medium,Greedy (level-by-level),Top 150,https://leetcode.com/problems/jump-game-ii/,27/10/25
 Greedy,Gas Station,Medium,Greedy check for total gas and tank level,"NC150, Top 150",https://leetcode.com/problems/gas-station/,
 Greedy,Partition Labels,Medium,Track last occurrence of each character,NC150,https://leetcode.com/problems/partition-labels/,
