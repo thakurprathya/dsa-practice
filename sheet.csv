@@ -13,7 +13,7 @@ Arrays & Hashing,Remove Duplicates from Sorted Array,Easy,Two Pointers,"Top 150,
 Arrays & Hashing,Remove Duplicates from Sorted Array II,Medium,Two Pointers,Top 150,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,24/12/25
 Arrays & Hashing,Majority Element,Easy,Boyer-Moore Voting Algorithm,"Top 150, SDE",https://leetcode.com/problems/majority-element/,25/08/25
 Arrays & Hashing,Rotate Array,Medium,Reversal Algorithm / Cyclic Replacements,"Top 150, SDE",https://leetcode.com/problems/rotate-array/,
-Arrays & Hashing,Best Time to Buy and Sell Stock II,Medium,Greedy (Peak/Valley),Top 150,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,
+Arrays & Hashing,Best Time to Buy and Sell Stock II,Medium,Greedy (Peak/Valley),Top 150,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,26/12/25
 Arrays & Hashing,H-Index,Medium,Sorting / Counting Sort,Top 150,https://leetcode.com/problems/h-index/,
 Arrays & Hashing,Insert Delete GetRandom O(1),Medium,Hash Map + Array,"Top 150, SDE",https://leetcode.com/problems/insert-delete-getrandom-o1/,
 Arrays & Hashing,Candy,Hard,Greedy (Two Pass),Top 150,https://leetcode.com/problems/candy/,25/08/25
@@ -34,7 +34,7 @@ String / Two Pointers,Container With Most Water,Medium,Converging Pointers (Gree
 String / Two Pointers,Trapping Rain Water,Hard,Two Pointers with Left/Right Max,"NC150, Top 150, SDE",https://leetcode.com/problems/trapping-rain-water/,06/08/25
 String / Two Pointers,Reverse Words in a String,Medium,Two Pointers / String Manipulation,Top 150,https://leetcode.com/problems/reverse-words-in-a-string/,29/07/25
 String / Two Pointers,Find the Index of the First Occurrence in a String,Easy,String Matching (KMP),Top 150,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,
-Sliding Window,Best Time to Buy and Sell Stock,Easy,Simple One-Pass Window (Kadane's),"NC150, Top 150, SDE",https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,
+Sliding Window,Best Time to Buy and Sell Stock,Easy,Simple One-Pass Window (Kadane's),"NC150, Top 150, SDE",https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,26/12/25
 Sliding Window,Longest Substring Without Repeating Characters,Medium,Sliding Window with Hash Set/Map,"NC150, Top 150, SDE",https://leetcode.com/problems/longest-substring-without-repeating-characters/,
 Sliding Window,Longest Repeating Character Replacement,Medium,Sliding Window with Frequency Map,NC150,https://leetcode.com/problems/longest-repeating-character-replacement/,04/08/25
 Sliding Window,Permutation in String,Medium,Sliding Window with Frequency Map,NC150,https://leetcode.com/problems/permutation-in-string/,
