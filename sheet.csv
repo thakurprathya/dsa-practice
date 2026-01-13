@@ -1,5 +1,5 @@
 valid,Problem Name,Difficulty,Key Pattern / Concept,Common In,Link,Solved
-Arrays & Hashing,Two Sum,Easy,Hash Map for O(1) Lookups,"NC150, Top 150, SDE",https://leetcode.com/problems/two-sum/,
+Arrays & Hashing,Two Sum,Easy,Hash Map for O(1) Lookups,"NC150, Top 150, SDE",https://leetcode.com/problems/two-sum/,12/01/26
 Arrays & Hashing,Contains Duplicate,Easy,Hash Set for O(1) Lookups,"NC150, Top 150",https://leetcode.com/problems/contains-duplicate/,
 Arrays & Hashing,Valid Anagram,Easy,Frequency Array / Hash Map,"NC150, Top 150",https://leetcode.com/problems/valid-anagram/,
 Arrays & Hashing,Group Anagrams,Medium,Hashing by Sorted String/Tuple,"NC150, Top 150",https://leetcode.com/problems/group-anagrams/,25/08/25
@@ -39,7 +39,7 @@ Sliding Window,Longest Substring Without Repeating Characters,Medium,Sliding Win
 Sliding Window,Longest Repeating Character Replacement,Medium,Sliding Window with Frequency Map,NC150,https://leetcode.com/problems/longest-repeating-character-replacement/,04/08/25
 Sliding Window,Permutation in String,Medium,Sliding Window with Frequency Map,NC150,https://leetcode.com/problems/permutation-in-string/,
 Sliding Window,Minimum Window Substring,Hard,Two Pointers with Character Counts,"NC150, Top 150, SDE",https://leetcode.com/problems/minimum-window-substring/,05/08/25
-Sliding Window,Sliding Window Maximum,Hard,Deque for efficient max tracking,"NC150, SDE",https://leetcode.com/problems/sliding-window-maximum/,
+Sliding Window,Sliding Window Maximum,Hard,Deque for efficient max tracking,"NC150, SDE",https://leetcode.com/problems/sliding-window-maximum/,12/01/26
 Sliding Window,Minimum Size Subarray Sum,Medium,Sliding Window,Top 150,https://leetcode.com/problems/minimum-size-subarray-sum/,
 Sliding Window,Substring with Concatenation of All Words,Hard,Sliding Window with Hash Map,Top 150,https://leetcode.com/problems/substring-with-concatenation-of-all-words/,14/12/25
 Matrix,Valid Sudoku,Medium,Hash Sets for Rows/Cols/Boxes,"NC150, Top 150",https://leetcode.com/problems/valid-sudoku/,
@@ -64,7 +64,7 @@ Intervals,Minimum Number of Arrows to Burst Balloons,Medium,Greedy (Sort by end 
 Intervals,Meeting Rooms II,Medium,Min-Heap or Chronological Ordering,SDE,https://www.lintcode.com/problem/919/,
 Intervals,Summary Ranges,Easy,Iteration and Range Building,Top 150,https://leetcode.com/problems/summary-ranges/,
 Linked Lists,Reverse Linked List,Easy,Pointer Manipulation,"NC150, Top 150, SDE",https://leetcode.com/problems/reverse-linked-list/,04/12/25
-Linked Lists,Merge Two Sorted Lists,Easy,Standard Two-Pointer Merge,"NC150, Top 150, SDE",https://leetcode.com/problems/merge-two-sorted-lists/,
+Linked Lists,Merge Two Sorted Lists,Easy,Standard Two-Pointer Merge,"NC150, Top 150, SDE",https://leetcode.com/problems/merge-two-sorted-lists/,12/01/26
 Linked Lists,Reorder List,Medium,Slow/Fast Pointers + Reverse + Merge,NC150,https://leetcode.com/problems/reorder-list/,
 Linked Lists,Remove Nth Node From End of List,Medium,Slow/Fast Pointers,"NC150, Top 150, SDE",https://leetcode.com/problems/remove-nth-node-from-end-of-list/,
 Linked Lists,Linked List Cycle,Easy,Floyd's Tortoise and Hare,"NC150, Top 150, SDE",https://leetcode.com/problems/linked-list-cycle/,08/10/25
